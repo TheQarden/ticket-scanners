@@ -30,7 +30,7 @@
 
 - HTML5 / CSS3
 - JavaScript (ES6+)
-- [jsQR](https://github.com/cozmo/jsQR) - библиотека для распознавания QR
+- jsQR - библиотека для распознавания QR
 - WebRTC - доступ к камере
 
 ## 📱 Совместимость
@@ -41,7 +41,5 @@
 | Firefox | ✅ Отлично |
 | Safari (iOS) | ✅ Хорошо |
 | Opera | ✅ Отлично |
-
-## (Открыть сканер можно в QuickEdit)
 
 **Created by TheQarden**
