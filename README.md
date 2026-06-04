@@ -44,9 +44,6 @@
 
 ## 🔗 Демо
 
-[Открыть сканер](https://theqarden.github.io/ticket-scanners)
-
-> ⚠️ Замени `твой-ник` на своё имя пользователя GitHub
-
+[Открыть сканер можно в QuickEdit]
 
 **Created by TheQarden**
